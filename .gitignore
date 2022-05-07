@@ -4,8 +4,5 @@
 # Ignore Gradle build output directory
 build
 
-downloads/*.zip
-downloads/*.xlsx
-downloads/*.csv
 
 resources
